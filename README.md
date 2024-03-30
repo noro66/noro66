@@ -11,7 +11,7 @@ As a software engineering student, I'm continuously learning and exploring new t
 I'm pursuing my studies in software engineering, where I've gained a solid foundation in computer science principles and programming languages. I'm enthusiastic about applying my knowledge to real-world projects and contributing to innovative solutions.
 
 ## 📫 How to reach me
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/aitsfia-nouaamane) or drop me an email at [nouamaneaitsfia@gmail.com]. 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aitsfia-nouaamane) or drop me an email at [nouamaneaitsfia@gmail.com]. 
 I'm always eager to engage in discussions, collaborate on projects, or simply share insights about software engineering and technology.
 
 ## ⚡ Fun fact
