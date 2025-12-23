@@ -28,7 +28,7 @@ In my free time, I enjoy exploring new coding challenges on platforms like LeetC
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=noro66&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=noro66&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=noro66&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=php)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=noro66&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=php,blade)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=noro66&icon=0&color=0)](https://visitcount.itsvg.in)
